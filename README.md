@@ -1,4 +1,14 @@
-### Hi 👋 I'm Pierre, a data scientist with a background in theoretical science! 
+### Hi 👋 I'm Pierre, an enthusiastic data scientist with a background in theoretical science! 
+
+<p align="center">
+  <a href="https://github.com/pierrewinter"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+  <a href="https://www.linkedin.com/in/pierre-mw/"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+  <a href="https://pierrewinter.github.io/" target="_blank"><img src="https://img.shields.io/badge/WEBSITE%20-%23107C10.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt=website style="margin-bottom: 5px;" /></a>
+</p>
+
+<br/>
+
+
 
 - 🌱 I’m currently learning Amazon Web Services
 - 💬 Ask me about data analysis and building models
@@ -46,15 +56,5 @@
 </td>
 </tr>
 </table>
-
-<br/>
-
-## Connect with me
-
-<p align="center">
-  <a href="https://github.com/pierrewinter"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
-  <a href="https://www.linkedin.com/in/pierre-mw/"><img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
-  <a href="https://pierrewinter.github.io/" target="_blank"><img src="https://img.shields.io/badge/WEBSITE%20-%23107C10.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt=website style="margin-bottom: 5px;" /></a>
-</p>
 
 <br/>
