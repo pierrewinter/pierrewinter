@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="undefined" width="600" />
+</div>
+
 ### Hi 👋 I'm Pierre, an enthusiastic data scientist with a background in theoretical science! 
 
 <p align="center">
@@ -7,7 +11,6 @@
 </p>
 
 <br/>
-
 
 
 - 🌱 I’m currently learning Amazon Web Services
@@ -58,3 +61,12 @@
 </table>
 
 <br/>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pierrewinter&&style=flat-square" align="center" />
+</p>  
+<br/>
+
+
+Credit to [![Github Badge](https://img.shields.io/badge/-@rishavanand-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Goldy98)](https://github.com/rishavanand)  for the cool GIF 
+<br />
