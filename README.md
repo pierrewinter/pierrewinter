@@ -1,6 +1,12 @@
+<!---
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="undefined" width="600" />
 </div>
+-->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/VeNDat4n4Kre76oS1g/giphy.gif" />
+</p>
 
 ### Hi 👋 I'm Pierre, an enthusiastic data scientist with a background in theoretical science! 
 
