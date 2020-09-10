@@ -74,5 +74,7 @@
 <br/>
 
 
+<!---
 Credit to [![Github Badge](https://img.shields.io/badge/-@rishavanand-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/Goldy98)](https://github.com/rishavanand)  for the cool GIF 
 <br />
+-->
