@@ -19,7 +19,7 @@
 <br/>
 
 
-- 🌱 I’m currently learning Amazon Web Services
+- 🌱 I’m currently learning AWS SageMaker
 - 💬 Ask me about data analysis and building models
 - ⚡ Fun fact: I love international travel (>30 countries)
 <br/>
