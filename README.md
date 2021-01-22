@@ -58,7 +58,7 @@
 <div align="center">
 <!-- <img style="margin: 10px" src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="50" /> -->
 <img style="margin: 10px" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git" height="50" /> 
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="60" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="60" />
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Windows" height="60" />    
 </div>
 
